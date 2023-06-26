@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Nice to meet you! I'm **Shad** (they/them), a software dev in training!
+I'm currently enrolled in Tech Elevator learning **Java**. I hope to jumpstart my career soon! I intend to learn more programming and scripting languages in the future, such as...
+
+- Python
+- Rust
+- JavaScript
